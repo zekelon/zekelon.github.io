@@ -1,0 +1,16 @@
+body
+{
+	background: url(school1.jpg) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}  
+   #frm{
+	   border:solid gray 1px;
+	   width: 20%;
+	   border-radius: 5px;
+	   margin: 100px auto;
+	   background: green;
+	   padding:50px;
+		}

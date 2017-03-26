@@ -1,0 +1,21 @@
+body
+{
+	background: url(approved.jpg) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}  
+   #frm{
+	   border-style: hidden;
+	   width:100;
+		}
+		
+	#frm1{
+		display:inline-block;
+		border:solid SaddleBrown   10px;
+		overflow: auto;
+		margin: 10px auto 10px auto;
+		background: DarkGoldenRod;
+		}
+	

@@ -1,0 +1,44 @@
+body
+{
+	background: url(stats.jpg) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}  
+   .centered { margin-left: auto;
+   margin-right: auto;
+   border:solid gray 1px;
+	   width: 30%;
+	   border-radius: 1px;
+	   margin: 10px auto;
+	   background: DarkGoldenRod;
+	   padding:10px;}
+   
+   #frm{
+	   border:solid gray 1px;
+	   width: 30%;
+	   border-radius: 1px;
+	   margin: 10px auto;
+	   background: DarkGreen;
+	   padding:10px;
+		}
+		
+	#frm1{
+		
+		display:inline-block;
+		border:solid SaddleBrown   10px;
+		overflow: auto;
+		margin-left: auto;
+		margin-right: auto;
+		background: DarkGoldenRod;
+		}
+	#frm2{
+		text-align: center;
+		display:inline-block;
+		border:solid SaddleBrown   10px;
+		overflow: auto;
+		margin: 10px auto 10px auto;
+		background: DarkGoldenRod;
+		}	
+	
